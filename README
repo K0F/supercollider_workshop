@@ -1,5 +1,7 @@
 # Supercollider as a tool for live-coding performance.
 
+This tutorial covers very basic introduction into making sound with SuperCollider and JITLIB
+
 To download and install supercollider on all major platofrms: (Linux, Mac, Win) follow instructions:
 
 https://supercollider.github.io
